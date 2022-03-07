@@ -3,6 +3,7 @@
 # Technologies/Languages Used
 * VSCode 
 * Postman
+* Javascript
 * Node.js
 
 # Getting started 
